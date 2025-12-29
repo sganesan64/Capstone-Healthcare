@@ -4,6 +4,9 @@ This a Capstone project using World Health related data
 Scope is Identifying Most prevalence issue by country and world wide, and connecting to individual habbit by country to see any pattern to establish the probable reason.
 ##	The research question intended to be answered (in one sentence, if possible)
       Identifying Most prevalence health issue in US and identifying correlation by country  world wide, and Identifying individual habit or any pattern to establish the probable reason.  
+      Here is the URL for the Jupyter Notebook for this research 
+      <a href="https://github.com/sganesan64/Capstone-Healthcare/blob/main/Capstone_WorlHealthcare.ipynb" target="_blank">Click Here</a>
+      
 ##	Expected data source(s) (as either a link to existing data or a sentence describing where you will source the data from)
       Using World Health related data from
 ###	SOURCE 1: 
