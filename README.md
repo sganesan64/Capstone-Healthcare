@@ -119,8 +119,5 @@ This dataset covers the most recent and updated health statistics of the world (
 08/06/2025  10:58 PM             4,758 WHOregionLifeExpectancyAtBirth.csv
 
 
-## Conclusion , After forward Sequential selection and Random Search Models,
-#### It became obvious that the features , 'Healthcare Access (%)', 'Recovery Rate (%)', 'Urbanization Rate (%)' are having positive correlation.
-
-## As the next steps, will continue to establish the above features against the Countries and Diseases,
-for better Predictions as the suggestion for a quick Recovery.
+<font style="color:purple"> Conclusion , AI using Global Health Data, can come up with world's best treatment type and plans based on the result of Recovery Rate comparison across Globl countries </font>
+It became obvious that Some of the features , 'Healthcare Access (%)', 'Urbanization Rate (%)','Treatment Type' are having positive correlation from selected countries . Even though cetain coutries are doing better in overall prediction by Diseases, the effectiveness of Treatment also varies by the 'Disease Category'. Through AI and Machine learning,Global Data shall be monitored for constant improvement and effectiveness of certain treatment.
