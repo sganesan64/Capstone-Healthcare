@@ -121,5 +121,5 @@ This dataset covers the most recent and updated health statistics of the world (
 
 
 ##  Conclusion , AI using Global Health Data, can come up with world's best treatment type and plans based on the result of Recovery Rate comparison across Globl countries 
-It became obvious that Some of the features , 'Healthcare Access (%)', 'Urbanization Rate (%)','Treatment Type' are having positive correlation from selected countries . Even though cetain countries are doing better in overall prediction by Diseases, the effectiveness of Treatment also varies by the 'Disease  Category'. Through AI and Machine learning,Global Data shall be monitored for constant improvement and effectiveness of certain treatment.
+ It became obvious that Some of the features , 'Healthcare Access (%)', 'Urbanization Rate (%)','Treatment Type'  are having positive correlation from selected countries .Even though certain countries are doing better in overall prediction by Diseases, the effectiveness of Treatment also varies by the 'Disease Category'. Through AI and Machine learning,Global Health Data shall be monitored for constant improvement and effectiveness of certain treatment.
 
